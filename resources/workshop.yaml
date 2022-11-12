@@ -5,7 +5,8 @@ metadata:
 spec:
   title: Kubernetes Fundamentals
   description: Workshop on getting started with Kubernetes
-  url: https://github.com/eduk8s-labs/lab-k8s-fundamentals
+#  url: https://github.com/eduk8s-labs/lab-k8s-fundamentals
+  url: https://github.com/huntedhappy/lab-k8s-fundamentals
   vendor: eduk8s.io
   authors:
   - Graham Dumpleton
